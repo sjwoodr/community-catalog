@@ -14,7 +14,7 @@
       description: "Unique public port for Kibana"
       type: "int"
       default: 80
-      required: false
+      required: true
 
 nginx-proxy:
   metadata:
