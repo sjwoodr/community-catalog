@@ -14,7 +14,7 @@
       description: "Unique public port for kopf"
       type: "int"
       default: 80
-      required: false
+      required: true
 elasticsearch-masters:
   metadata:
     elasticsearch:
